@@ -1,7 +1,7 @@
 # repository-maker
 Um repositório para eu organizar coisas que posso utilizar para melhorar repositórios que eu mesmo criar
 
--[**Todas as Sintaxes**](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
+- [**Todas as Sintaxes**](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links)
 - [**Site Para Editar Arquivos .md**](https://readme.so/pt)
 ## 📸 Coisas em geral que posso inserir no repositório para deixa-lo mais bonito e organizado
 -[**badges**](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
